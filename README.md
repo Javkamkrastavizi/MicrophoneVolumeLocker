@@ -27,6 +27,15 @@ Im Open to suggestions and Feedback.
 
 You might get a warning the the program is a virus It's not I just don't have money to register it so that windows doesn't flag it as a virus
 
+# Programs Used to make this 
+
+### All Rights reserved to their Respectful Owners
+
+1.AutoHotkey 1.1.33.10
+
+2.SmartGUI 4.0
+
+3.Nircmd 64bit
 
  
 
