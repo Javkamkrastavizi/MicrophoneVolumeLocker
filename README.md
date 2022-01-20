@@ -14,12 +14,12 @@ You will need to download nircmd.exe 64bit [link](https://www.nirsoft.net/utils/
 # Installation instructions
 
 1. Download  nircmd.exe
-2. Unzip all nircmd files(Only The Files Not The Folder Where the Nircmd Files Are Located) in the same folder as the MicrophoneLocker1.0.exe(EASIEST WAY).
-3. Unzip all nircmd files(Only The Files Not The Folder Where the Nircmd Files Are Located) create and put in a Folder(the name doesn't matter) located at C:\ it has to be on C drive. Open environmental variables(Search it in the Start menu) go to System Variables and add the folder path to the path variable and save it now you can open the MicrophoneLocker1.0.exe from any folder on the system and it will work(HARDEST WAY).
+2. Unzip all nircmd files(Only The Files Not The Folder Where the Nircmd Files Are Located) in the same folder as the MicrophoneVolumeLocker1.0.exe(EASIEST WAY).
+3. Unzip all nircmd files(Only The Files Not The Folder Where the Nircmd Files Are Located) create and put in a Folder(the name doesn't matter) located at C:\ it has to be on C drive. Open environmental variables(Search it in the Start menu) go to System Variables and add the folder path to the path variable and save it now you can open the MicrophoneVolumeLocker1.0.exe from any folder on the system and it will work(HARDEST WAY).
 
 ![WwVVnL1ayh](https://user-images.githubusercontent.com/91847985/150409053-fd63ffe0-24a8-438c-8876-07425ae58558.gif)
 
-4. If you want to be able to start MicrophoneLocker1.0.exe at Windows Startup you will have to do it the hard way
+4. If you want to be able to start MicrophoneVolumeLocker1.0.exe at Windows Startup you will have to do it the hard way
 
 5. Make Sure That The Recording Device is set as Default Recording Device in the Sound Control Panel
 
