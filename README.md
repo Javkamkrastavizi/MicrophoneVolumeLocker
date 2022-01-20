@@ -29,7 +29,7 @@ You might get a warning the the program is a virus It's not I just don't have mo
 
 # Programs Used to make this 
 
-### All Rights reserved to their Respectful Owners
+### All Rights Reserved To Their Respectful Owners
 
 1.AutoHotkey 1.1.33.10
 
