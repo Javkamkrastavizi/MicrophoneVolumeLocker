@@ -21,6 +21,8 @@ You will need to download nircmd.exe 64bit [link](https://www.nirsoft.net/utils/
 
 4. If you want to be able to start MicrophoneLocker1.0.exe at Windows Startup you will have to do it the hard way
 
+5. Make Sure That The Recording Device is set as Default Recording Device in the Sound Control Panel
+
 # Notes
 
 Im Open to suggestions and Feedback.
