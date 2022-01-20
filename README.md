@@ -25,7 +25,7 @@ You will need to download nircmd.exe 64bit [link](https://www.nirsoft.net/utils/
 
 Im Open to suggestions and Feedback.
 
-
+You might get a warning the the program is a virus It's not I just don't have money to register it so that windows doesn't flag it as a virus
 
 
  
