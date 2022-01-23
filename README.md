@@ -10,7 +10,7 @@ A simple Autohotkey script with SmartGUI front end  that uses Nircmd to Lock any
 
 1. Download  the latest **MicrophoneVolumeLocker.exe** from [Releases](https://github.com/Javkamkrastavizi/MicrophoneVolumeLocker/releases/tag/MicrophoneVolumeLocker1.0)
 
-2. Make Sure That your **Microphone** is set as Default Recording Device in the Sound Control Panel
+2. Make sure that your **Microphone** is set as `Default Recording Device` in the `Sound Control Panel`
 
 3. Unzip the **MicrophoneVolumeLocker.zip** anywhere on any drive you like and open **MicrophoneVolumeLocker.exe** and press **CTRL+Shift+m** to open the window and choose a volume lock and boom it should work.
 
