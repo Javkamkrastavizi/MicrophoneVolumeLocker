@@ -3,7 +3,7 @@ A simple Autohotkey script with SmartGUI front end  that uses Nircmd to Lock any
 
 # Preview And Demo
 
-![MicrophoneVolumeLocker1 0_KL9HRDfWTk](https://user-images.githubusercontent.com/91847985/150402839-2fc6b074-8aa8-472b-a54c-a2dd267a29a7.png)
+![MicrophoneVolumeLocker2 0 0_mEODqDj2OA](https://user-images.githubusercontent.com/91847985/150688603-78be47ad-eedc-4095-bdb3-7450c92edfb1.png)
 
 ![explorer_6F4UZrLjtE](https://user-images.githubusercontent.com/91847985/150403866-76a76e27-9bd2-4f2a-9d66-e8122967e4c2.gif)
 
@@ -21,9 +21,11 @@ You will need to download nircmd.exe 64bit [link](https://www.nirsoft.net/utils/
 
 ![WwVVnL1ayh](https://user-images.githubusercontent.com/91847985/150409053-fd63ffe0-24a8-438c-8876-07425ae58558.gif)
 
-5. If you want to be able to start MicrophoneVolumeLocker1.0.exe at Windows Startup you will have to do it the hard way
+5. If you want to be able to start MicrophoneVolumeLocker1.0.exe at Windows Startup you will have to do it the hard way and put the .exe file in windows Startup Folder
 
 6. Make Sure That The Recording Device is set as Default Recording Device in the Sound Control Panel
+
+7. Open The App Using CTRL+Shift+m
 
 # Notes
 
