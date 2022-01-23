@@ -6,7 +6,7 @@ A simple Autohotkey script with SmartGUI front end  that uses Nircmd to Lock any
 ![MicrophoneVolumeLocker2 0 0_mEODqDj2OA](https://user-images.githubusercontent.com/91847985/150688603-78be47ad-eedc-4095-bdb3-7450c92edfb1.png)
 
 
-# Installation instructions
+# Installation Instructions
 
 1. Download  the latest **MicrophoneVolumeLocker.exe** from [Releases](https://github.com/Javkamkrastavizi/MicrophoneVolumeLocker/releases/tag/MicrophoneVolumeLocker1.0)
 
