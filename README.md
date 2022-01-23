@@ -26,7 +26,7 @@ A simple Autohotkey script with SmartGUI front end  that uses Nircmd to Lock any
 
 # Notes
 
-Im Open to suggestions and Feedback.
+Im open to suggestions and Feedback.
 
 You might get a warning that the  program is a virus It's not I just don't have money to register it so that windows doesn't flag it as a virus
 
